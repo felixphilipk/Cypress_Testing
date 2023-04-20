@@ -1,0 +1,8 @@
+{
+  "firstName": "{{faker 'firstName'}}",
+  "lastName": "{{faker 'lastName'}}",
+  "email": "{{faker 'email'}}",
+  "age": "{{faker 'random.number' {'min': 18, 'max': 65}}} years", 
+  "salary": "{{faker 'finance.amount' {'min': 20000, 'max': 1000000, 'decimal': '.', 'symbol': '$'}}}", 
+  "department": "{{faker 'company.catchPhraseAdjective'}} {{faker 'company.industry'}}" 
+}

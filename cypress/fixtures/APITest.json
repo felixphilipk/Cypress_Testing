@@ -1,0 +1,12 @@
+{
+
+"Endpoint": "https://demoqa.com/Account/v1",
+"EndpointBooks": "https://demoqa.com/BookStore",
+"createNewUser": "/User",
+"authorizedUser": "/Authorized",
+"generateToken": "/GenerateToken",
+"getBooks": "/v1/Books",
+"deleteBook": "/v1/Book"
+
+
+}

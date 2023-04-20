@@ -1,0 +1,26 @@
+{
+    "firstNameValue": "John",
+    "lastNameValue": "Wick",
+    "emailValue": "john.wick@example.com",
+    "genderValue": 1,
+    "mobileNumberValue": "1234567890",
+    "dateOfBirthDay": "20",
+    "dateOfBirthMonth":"April",
+    "dateOfBirthYear":"1990",
+    "subjectValue": "C",
+    "hobbiesReading": 2,
+    "hobbiesSport":1,
+    "hobbiesMusic":3,
+    "pictureValue":"cypress/fixtures/images/test.png",
+    "AddressValue": "Netherlands",
+    "stateNCR": 0,
+    "stateUP": 1,
+    "cityDelhi": 0,
+    "cityGurgaon":1,
+    "cityAgra":0,
+    "cityLucknow": 1
+
+
+
+  }
+ 

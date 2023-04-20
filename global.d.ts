@@ -1,0 +1,11 @@
+/// <reference types="cypress" />
+
+declare namespace Cypress {
+    interface Chainable {
+      
+  
+        checkImage(selector: string): Chainable<Element>
+     
+    }
+  }
+  
