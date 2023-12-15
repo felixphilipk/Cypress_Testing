@@ -1,4 +1,4 @@
-# Cypress Automation Framework By Felix
+# Cypress 
 
 ## Setup
 1. Type the below Command to finish setting up the prequisites 
